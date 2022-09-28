@@ -91,14 +91,17 @@ details obout company details obout company details obout company details obout 
 'Article Details'=>'Article Details',
 'other articles'=>'Other Articles',
 'prev work title'=>'Previous Work Title',
-''=>'',
+
+'Developed By'=>'Devloped lovely By',
+'Newsletter'=>'Newsletter',
+'Sign Up'=>'Sign Up',
 ''=>'',
 ''=>'',
 ''=>'',
 ''=>'',
 ''=>'',
 
-'copyright' => 'All Rights Reserved for ........ Company  Ⓒ 2022',
+'copyright' => 'All Rights Reserved for ........  Ⓒ 2022',
 
 ]
 

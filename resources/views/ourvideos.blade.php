@@ -32,42 +32,42 @@
                     title="The USA 4K - Scenic Relaxation Film With Calming Music" frameborder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                     allowfullscreen></iframe>
-                    <h5 class="text-uppercase mt-2 mb-4">{{__('trans.article title')}}</h5>
+                    <h5 class="text-uppercase mt-2 mb-4">{{__('trans.Video Title')}}</h5>
             </div>
             <div class="col-lg-4 col-md-6 mb-2 text-center">
                 <iframe src="https://www.youtube.com/embed/4Z9mUjtFJYY"
                     title="The USA 4K - Scenic Relaxation Film With Calming Music" frameborder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                     allowfullscreen></iframe>
-                    <h5 class="text-uppercase mt-2 mb-4">{{__('trans.article title')}}</h5>
+                    <h5 class="text-uppercase mt-2 mb-4">{{__('trans.Video Title')}}</h5>
             </div>
             <div class="col-lg-4 col-md-6 mb-2 text-center">
                 <iframe src="https://www.youtube.com/embed/4Z9mUjtFJYY"
                     title="The USA 4K - Scenic Relaxation Film With Calming Music" frameborder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                     allowfullscreen></iframe>
-                    <h5 class="text-uppercase mt-2 mb-4">{{__('trans.article title')}}</h5>
+                    <h5 class="text-uppercase mt-2 mb-4">{{__('trans.Video Title')}}</h5>
             </div>
             <div class="col-lg-4 col-md-6 mb-2 text-center">
                 <iframe src="https://www.youtube.com/embed/4Z9mUjtFJYY"
                     title="The USA 4K - Scenic Relaxation Film With Calming Music" frameborder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                     allowfullscreen></iframe>
-                    <h5 class="text-uppercase mt-2 mb-4">{{__('trans.article title')}}</h5>
+                    <h5 class="text-uppercase mt-2 mb-4">{{__('trans.Video Title')}}</h5>
             </div>
             <div class="col-lg-4 col-md-6 mb-2 text-center">
                 <iframe src="https://www.youtube.com/embed/4Z9mUjtFJYY"
                     title="The USA 4K - Scenic Relaxation Film With Calming Music" frameborder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                     allowfullscreen></iframe>
-                    <h5 class="text-uppercase mt-2 mb-4">{{__('trans.article title')}}</h5>
+                    <h5 class="text-uppercase mt-2 mb-4">{{__('trans.Video Title')}}</h5>
             </div>
             <div class="col-lg-4 col-md-6 mb-2 text-center">
                 <iframe src="https://www.youtube.com/embed/4Z9mUjtFJYY"
                     title="The USA 4K - Scenic Relaxation Film With Calming Music" frameborder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                     allowfullscreen></iframe>
-                    <h5 class="text-uppercase mt-2 mb-4">{{__('trans.article title')}}</h5>
+                    <h5 class="text-uppercase mt-2 mb-4">{{__('trans.Video Title')}}</h5>
             </div>
         </div>
 

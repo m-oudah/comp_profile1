@@ -33,13 +33,13 @@
 
             </div>
             <div class="col-lg-3 col-md-6 mb-5">
-                <h4 class="text-uppercase text-light mb-4">Newsletter</h4>
-                <p class="mb-4">Volup amet magna clita tempor. Tempor sea eos vero ipsum. Lorem lorem sit sed elitr sed kasd et</p>
+                <h4 class="text-uppercase text-light mb-4">{{__('trans.Newsletter')}}</h4>
+                <p class="mb-4">{{__('trans.SUBSCRIBE OUR NEWSLETTER')}}</p>
                 <div class="w-100 mb-3">
                     <div class="input-group">
-                        <input type="text" class="form-control bg-dark border-dark" style="padding: 25px;" placeholder="Your Email">
+                        <input type="text" class="form-control bg-dark border-dark" style="padding: 25px;" placeholder="{{__('trans.Email')}}">
                         <div class="input-group-append">
-                            <button class="btn btn-primary text-uppercase px-3">Sign Up</button>
+                            <button class="btn btn-primary text-uppercase px-3">{{__('trans.Sign Up')}}</button>
                         </div>
                     </div>
                 </div>
@@ -47,7 +47,10 @@
         </div>
     </div>
     <div class="container-fluid bg-dark py-4 px-sm-3 px-md-5">
-        <p class="mb-2 text-center text-body">&copy; <a href="#">Your Site Name</a>. All Rights Reserved.</p>
+        <div class="row">
+            <div class="col-6 text-right"><p class="mb-2">{{__('trans.copyright')}} &copy; <a href="#">Your Site Name </a></p></div>
+            <div class="col-6 text-left"> <p class="mb-2">{{__('trans.Developed By')}} <a href="https://c-web20.com/" target="_blank">C-Web </a></p></div>    
+        </div>
     </div>
     <!-- Footer End -->
 
